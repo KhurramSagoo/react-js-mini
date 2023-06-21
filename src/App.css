@@ -1,11 +1,12 @@
+@import './Style/variables.scss';
 body {
   font-family: "Poppins", sans-serif;
-  color: white;
+  color: black;
 }
 
 .App {
   text-align: center;
-}
+/* } */
 
 .App-logo {
   height: 40vmin;

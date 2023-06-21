@@ -1,7 +1,11 @@
+@import "./Style/variables.scss";
+body {
+  // font-family: "Poppins", sans-serif;
+  color:black;
+}
 
-body{
-  font-family: 'Poppins', sans-serif;
-  color: white;
+.p{
+  font-family: $pRegular;
 }
 .App {
   text-align: center;
@@ -17,7 +21,6 @@ body{
     animation: App-logo-spin infinite 15s linear;
   }
 }
-
 .App-header {
   background-color: #0e3179;
   min-height: 100vh;
@@ -40,4 +43,4 @@ body{
   to {
     transform: rotate(360deg);
   }
-}
+}/*# sourceMappingURL=App.css.map */
