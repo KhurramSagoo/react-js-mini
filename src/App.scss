@@ -1,10 +1,10 @@
 @import "./Style/variables.scss";
 body {
   // font-family: "Poppins", sans-serif;
-  color:black;
+  color: black;
 }
 
-.p{
+.p {
   font-family: $pRegular;
 }
 .App {
@@ -43,4 +43,4 @@ body {
   to {
     transform: rotate(360deg);
   }
-}/*# sourceMappingURL=App.css.map */
+} /*# sourceMappingURL=App.css.map */

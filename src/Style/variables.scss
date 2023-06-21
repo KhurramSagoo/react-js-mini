@@ -10,9 +10,8 @@ $cardHover: #b0b0b6;
 
 @font-face {
   font-family: "regular";
-  src: url('./fonts/Open_Sans/OpenSans-Regular.ttf');
+  src: url("./fonts/Open_Sans/OpenSans-Regular.ttf");
 }
-
 
 @font-face {
   font-family: "light";
@@ -30,43 +29,42 @@ $cardHover: #b0b0b6;
 
   @font-face {
     font-family: "regular";
-    src: url('./fonts/Poppins/Poppins-Bold.ttf');
+    src: url("./fonts/Poppins/Poppins-Bold.ttf");
   }
-  
+
   @font-face {
     font-family: "semiBold";
-    src: url('./fonts/Poppins/Poppins-Medium.ttf');
+    src: url("./fonts/Poppins/Poppins-Medium.ttf");
   }
 
   @font-face {
     font-family: "thin";
-    src: url('./fonts/Poppins/Poppins-Thin.ttf');
+    src: url("./fonts/Poppins/Poppins-Thin.ttf");
   }
 
   @font-face {
     font-family: "extraBold";
-    src: url('./fonts/Poppins/Poppins-ExtraBold.ttf');
-  }
-  
-  @font-face {
-    font-family: "bold";
-    src: url('./fonts/Poppins/Poppins-Bold.ttf');
+    src: url("./fonts/Poppins/Poppins-ExtraBold.ttf");
   }
 
+  @font-face {
+    font-family: "bold";
+    src: url("./fonts/Poppins/Poppins-Bold.ttf");
+  }
 }
-$pThin:"thin", poppins;
+$pThin: "thin", poppins;
 // $pBold:"bold", Poppins;
 // $pExtraBold:"extraBold", poppins;
-$pSemiBold:"semiBold", poppins;
-$pRegular:"regular" poppins;
+$pSemiBold: "semiBold", poppins;
+$pRegular: "regular" poppins;
 $regular: "regular", serif;
 $light: "light", serif;
 $semiBold: "semiBold", serif;
 $semiBold: "heading", serif;
 $heading: "heading", serif;
-$color: #1D99A9;
-$fontFamily: 'Poppins', sans-serif;
-$cursor : pointer;
+$color: #1d99a9;
+$fontFamily: "Poppins", sans-serif;
+$cursor: pointer;
 $whiteColor: white;
 $flex: flex;
 $justifyCenter: center;
