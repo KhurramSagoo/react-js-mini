@@ -21,20 +21,8 @@ body {
     animation: App-logo-spin infinite 15s linear;
   }
 }
-.App-header {
-  background-color: #0e3179;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: white;
-}
+
 
 @keyframes App-logo-spin {
   from {
@@ -43,4 +31,4 @@ body {
   to {
     transform: rotate(360deg);
   }
-} /*# sourceMappingURL=App.css.map */
+}
